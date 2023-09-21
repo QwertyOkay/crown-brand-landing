@@ -741,6 +741,7 @@ body {
 
 .header {
   background: #000000;
+  border-bottom: 0.1px solid #fff671;
 }
 
 .logo {
