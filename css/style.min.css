@@ -373,8 +373,8 @@ body {
 }
 
 .title {
-  top: -30px;
-  left: 95px;
+  top: 9px;
+  left: 135px;
   width: 765px;
   height: 716px;
   position: absolute;
@@ -412,12 +412,12 @@ body {
   width: auto;
   height: 70px;
   position: absolute;
-  left: 282px;
-  top: 685px;
+  left: 296px;
+  top: 705px;
 }
 
 .bonus {
-  top: 755px;
+  top: 770px;
   left: -21px;
   width: 1000px;
   height: 125px;
@@ -429,7 +429,7 @@ body {
 }
 
 .line {
-  top: 890px;
+  top: 909px;
   left: 277px;
   width: 400px;
   height: 1px;
@@ -439,7 +439,7 @@ body {
 }
 
 .benefits {
-  top: 945px;
+  top: 955px;
   left: 223px;
   width: 513px;
   height: 57px;
@@ -753,6 +753,8 @@ body {
 .title {
   background-image: url(../images/wheel.gif);
   background-size: cover;
+  background-size: 680px 680px;
+  background-repeat: no-repeat;
 }
 
 .bg {
