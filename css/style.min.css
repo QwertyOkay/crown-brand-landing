@@ -378,7 +378,7 @@ body {
   width: 765px;
   height: 716px;
   position: absolute;
-  background: url("../images/titile.png");
+  /* background: url("../images/titile.png"); */
   z-index: 4;
 }
 
@@ -751,7 +751,8 @@ body {
 }
 
 .title {
-  background-image: url(../images/wheel.gif);
+  background: url("../images/wheel.gif");
+  /* background: url("../images/titile.png"); */
   background-size: cover;
   background-size: 680px 680px;
   background-repeat: no-repeat;
